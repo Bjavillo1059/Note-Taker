@@ -19,8 +19,8 @@ please contact me at [brandonjavillo@gmail.com](brandonjavillo@gmail.com)
 As User I need to start my server.  Attached above is a step by step snip of the VS code install and Demo video.  You will start by opening your Note-Taker file in VS Code, ensuring that you are on the server.js file open your terminal.  In the terminal a User will type out npm install or npm i, to require all the dependencies for the application.  Once the install is complete, a User will then type npm start to start the application on localhost: PORT 3001.  The User will know the server is up when the terminal displays "App server listening on port 3001!" A User will then open a browser window and type in the url bar localhost:3001. The application will display with the homepage.  A User will then click "Get Started" and will be sent to the Note Taker application function.  A User can input a title, make notes on that title and save it.  Multiple saves can be done, but the saved notes will only show the last 5 notes that were saved.  The User can also delete notes as they see fit.
 
 
-App Criteria
-GIVEN a note-taking application
+## App Criteria
+### GIVEN a note-taking application
 WHEN I open the Note Taker
 THEN I am presented with a landing page with a link to "Get Started"
 WHEN I click on the link "Get Started"
