@@ -7,7 +7,7 @@ This application will uses Express.js for the backend. A User can save and retri
 Screen shot of installation:
 
 ### how to start server -
-<img src="./img/SS of start instructional.PNG" alt="snip of install/start"/>
+<img src="./public/assets/img/SS of start instructional.PNG" alt="Snip of start"/>
 
 ## Demo
 
